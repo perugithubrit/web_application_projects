@@ -1,0 +1,29 @@
+.title{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align:center;
+    width: 210px;
+    color:#1a090a;
+    border: solid black 1px;
+    }
+    input[type=button]
+    {
+    border-radius: 10px;
+    background-color:#75dbf5;
+    color: black;
+    border-color:#44a5ff ;
+    width:100%;
+    }
+    input[type=text]
+    {
+    border-radius: 10px;
+    text-align: right;
+    background-color:white;
+    border-color: black ;
+    width:100%
+    }
+    .container{
+        margin-left: 800px;
+        margin-top: 200px;
+        
+    }
